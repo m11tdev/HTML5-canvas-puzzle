@@ -1,4 +1,4 @@
-/* http://corgdesign.com
+/* http://www.corgdesign.com
    License: none (public domain)
 */
 
